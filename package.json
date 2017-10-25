@@ -1,0 +1,16 @@
+{
+  "name": "tsconfig.json",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "2650831723021",
+  "contributors": [],
+  "dependencies": {
+    "typescript": "^2.5.3"
+  }
+}
